@@ -79,6 +79,7 @@
     <Compile Include="Assets\YandexGame\ScriptsYG\GraphicSettingsYG.cs" />
     <Compile Include="Assets\Game(LinePaint)\Scripts\UIManager_paint.cs" />
     <Compile Include="Assets\Game(LinePaint)\Scripts\LevelDataScriptable.cs" />
+    <Compile Include="Assets\LanguageButton.cs" />
     <Compile Include="Assets\YandexGame\Example\Scripts\OpenAuthorizationDialog.cs" />
     <Compile Include="Assets\Game(LinePaint)\Scripts\Grid.cs" />
     <Compile Include="Assets\YandexGame\Example\Scripts\NewResultLeaderboard.cs" />
@@ -90,7 +91,6 @@
     <Compile Include="Assets\YandexGame\ScriptsYG\ImageLoadYG.cs" />
     <Compile Include="Assets\YandexGame\ScriptsYG\ViewingAds.cs" />
     <Compile Include="Assets\YandexGame\ScriptsYG\LeaderboardYG.cs" />
-    <Compile Include="Assets\LanguageButton.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\YandexGame\Addons\Auto Localization\JsonDotNet\link.xml" />
